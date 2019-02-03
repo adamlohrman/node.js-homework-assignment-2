@@ -1,0 +1,20 @@
+[
+  {
+    "_1": {
+      "name": "pepperoniFiend",
+      "price": 10.99
+    },
+    "_2": {
+      "name": "meatFiend",
+      "price": 12.99
+    },
+    "_3": {
+      "name": "veggieFiend",
+      "price": 11.99
+    },
+    "_4": {
+      "name": "hawaiianFiend",
+      "price": 12.99
+    }
+  }
+]
